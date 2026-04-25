@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: DgMarques-br
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=white&color_dots=#ffffff,#dddddd,#aaaaaa,#888888,#555555
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=white&color_dots=#2d333b,#3d444d,#4d5562,#5d6677,#6e7c91
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
