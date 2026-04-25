@@ -16,8 +16,8 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DgMarques-br&show_icons=true&g_color=ffffffff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmm0987&layout=compact&bg_color=ffffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DgMarques-br&show_icons=true&bg_color=ced9e3&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmm0987&layout=compact&bg_color=ced9e3"/>
 </div>
 
 ---
@@ -27,7 +27,7 @@
 > I'm an aspiring developer with a strong focus on Backend, currently in the 2nd year of my degree. I enjoy solving complex problems by creating clean architectures with **Java, Spring Boot, and Node.js**, integrating databases like MongoDB and MySQL. I have a strong interest in software accessibility, security, and system performance. Always ready for the next coding challenge!
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="900">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900">
 </div>
 
 ---
