@@ -7,7 +7,7 @@
 
 ### Hi! I'm Diogo Marques 👋
 
-🏫 Student of **Systems Development**  
+🏫 Student of **Systems Analysis and Development**  
 🚀 Passionate about technology and building things  
 📍 Brazil
 
