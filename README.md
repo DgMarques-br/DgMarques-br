@@ -17,7 +17,7 @@
 
 <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DgMarques-br&layout=compact&color=#ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmm0987&layout=compact&color=#ffffff)
 <br>
 
   <div style="flex-basis: 48%;">
