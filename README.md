@@ -8,26 +8,25 @@
 - <h4>🏫 Studant: Systems Development</h4>
 <br>
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmm0987&show_icons=true&theme=react)
-
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=DgMarques-br&show_icons=true&bg_color=#ffffff)
+<br>
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="1000">
 </p>
 
-  <div style="flex-basis: 48%;">
-    <h3>Konow Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp
-    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  </div>&nbsp
+<br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmm0987&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmm0987&layout=compact&color=#ffffff)
+<br>
 
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
+  <h3>Tools & Frameworks</h3>
+  <table>
+    <tr>
+      <td><img alt="VScode" src="https://skillicons.dev/icons?i=vscode&theme=dark"></td>
+      <td><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark"></td>
+    </tr>
+  </table>
+</div>
   
