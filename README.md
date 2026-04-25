@@ -79,7 +79,5 @@
 ---
 
 <div align="center">
-
-![Snake animation](https://github.com/DgMarques-br/DgMarques-br/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/DgMarques-br/DgMarques-br/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
