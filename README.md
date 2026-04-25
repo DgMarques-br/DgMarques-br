@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ### Hi! I'm Diogo Marques 👋
 
