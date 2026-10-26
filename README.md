@@ -17,7 +17,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DgMarques-br&show_icons=true&bg_color=ced9e3&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmm0987&layout=compact&bg_color=ced9e3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgMarques-br&layout=compact&bg_color=ced9e3"/>
 </div>
 
 ---
